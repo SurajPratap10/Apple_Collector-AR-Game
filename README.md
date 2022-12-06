@@ -3,7 +3,7 @@
 
 
 
-This is an AR game available on platforms under META (Instagram,Facebook).
+<h3>This is an AR game available on platforms under META (Instagram,Facebook).
 <br>
 It is developed using : META Spark AR Studio.
 <br>
